@@ -1,4 +1,4 @@
-#PR Count (PRS)
+# PR Count (PRS)
 
 This project is to be used in conjunction with MacOS X BitBar pluging which allows you to summaries a total count of PRs for a
 given set of repositories under an account.
